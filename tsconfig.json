@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "outDir": "./prod",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": false,
+    "resolveJsonModule": true,
+    "noImplicitAny": false,
+    "strictPropertyInitialization": false,
+    "declaration": true,
+    "declarationDir": "src/@types"
+  }
+}
